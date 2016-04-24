@@ -1,3 +1,26 @@
+## urdf_tutorial (kinetic) - 0.2.4-0
+
+The packages in the `urdf_tutorial` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release urdf_tutorial --track kinetic --rosdistro kinetic --new-track` on `Sun, 24 Apr 2016 19:21:45 -0000`
+
+The `urdf_tutorial` package was released.
+
+Version of package(s) in repository `urdf_tutorial`:
+
+- upstream repository: https://github.com/ros/urdf_tutorial.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.4-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## urdf_tutorial (jade) - 0.2.4-0
 
 The packages in the `urdf_tutorial` repository were released into the `jade` distro by running `/usr/bin/bloom-release urdf_tutorial --track jade --rosdistro jade --new-track` on `Thu, 30 Apr 2015 18:47:27 -0000`
