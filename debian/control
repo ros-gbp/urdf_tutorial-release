@@ -1,0 +1,12 @@
+Source: ros-indigo-urdf-sim-tutorial
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-indigo-urdf-sim-tutorial
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-controller-manager, ros-indigo-diff-drive-controller, ros-indigo-gazebo-ros, ros-indigo-gazebo-ros-control, ros-indigo-joint-state-controller, ros-indigo-position-controllers, ros-indigo-robot-state-publisher, ros-indigo-rqt-robot-steering, ros-indigo-rviz, ros-indigo-urdf-tutorial, ros-indigo-xacro
+Description: The urdf_sim_tutorial package
