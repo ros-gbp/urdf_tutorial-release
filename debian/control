@@ -1,0 +1,12 @@
+Source: ros-jade-urdf-sim-tutorial
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jade-urdf-sim-tutorial
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-controller-manager, ros-jade-diff-drive-controller, ros-jade-gazebo-ros, ros-jade-gazebo-ros-control, ros-jade-joint-state-controller, ros-jade-position-controllers, ros-jade-robot-state-publisher, ros-jade-rqt-robot-steering, ros-jade-rviz, ros-jade-urdf-tutorial, ros-jade-xacro
+Description: The urdf_sim_tutorial package
