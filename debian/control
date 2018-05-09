@@ -1,0 +1,12 @@
+Source: ros-melodic-urdf-sim-tutorial
+Section: misc
+Priority: extra
+Maintainer: David V. Lu!! <davidvlu@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-melodic-urdf-sim-tutorial
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-controller-manager, ros-melodic-diff-drive-controller, ros-melodic-gazebo-ros, ros-melodic-gazebo-ros-control, ros-melodic-joint-state-controller, ros-melodic-position-controllers, ros-melodic-robot-state-publisher, ros-melodic-rqt-robot-steering, ros-melodic-rviz, ros-melodic-urdf-tutorial, ros-melodic-xacro
+Description: The urdf_sim_tutorial package
