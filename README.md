@@ -1,3 +1,26 @@
+## urdf_tutorial (melodic) - 0.4.0-0
+
+The packages in the `urdf_tutorial` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --new-track urdf_tutorial` on `Wed, 09 May 2018 17:13:53 -0000`
+
+The `urdf_tutorial` package was released.
+
+Version of package(s) in repository `urdf_tutorial`:
+
+- upstream repository: https://github.com/ros/urdf_tutorial.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `0.3.0-0`
+- new version: `0.4.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.3.9`
+- rosdep version: `0.11.8`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.40`
+
+
 ## urdf_tutorial (melodic) - 0.3.0-0
 
 The packages in the `urdf_tutorial` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --new-track urdf_tutorial` on `Wed, 09 May 2018 17:00:12 -0000`
