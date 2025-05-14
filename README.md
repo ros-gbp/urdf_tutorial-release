@@ -1,3 +1,26 @@
+## urdf_tutorial (noetic) - 0.5.0-2
+
+The packages in the `urdf_tutorial` repository were released into the `noetic` distro by running `/usr/bin/bloom-release urdf_tutorial -r noetic -y` on `Wed, 14 May 2025 01:36:00 -0000`
+
+The `urdf_tutorial` package was released.
+
+Version of package(s) in repository `urdf_tutorial`:
+
+- upstream repository: https://github.com/ros/urdf_tutorial.git
+- release repository: https://github.com/ros-gbp/urdf_tutorial-release.git
+- rosdistro version: `0.5.0-1`
+- old version: `0.5.0-1`
+- new version: `0.5.0-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## urdf_tutorial (noetic) - 0.5.0-1
 
 The packages in the `urdf_tutorial` repository were released into the `noetic` distro by running `/usr/local/bin/bloom-release urdf_tutorial --ros-distro noetic --edit` on `Wed, 13 May 2020 18:43:04 -0000`
